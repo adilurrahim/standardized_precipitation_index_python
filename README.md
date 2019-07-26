@@ -1,1 +1,1 @@
-# spi-python-submonthly
+# Sub-monthly Standardised Precipitation Index in Python
